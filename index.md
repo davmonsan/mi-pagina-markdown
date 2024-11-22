@@ -25,4 +25,8 @@ Si te interesa el deporte de motor, visita la página oficial de [Motorsport](ht
 
 ---
 
+## Accede a la plataforma Aules
+
+Visita la página de [Aules](https://portal.edu.gva.es/aules/).
+
 ¡Gracias por visitar mi página!
